@@ -1,0 +1,6 @@
+domain.ar: argentina
+domain.bo: bolivia
+domain.cl: chile
+domain.pe: peru
+domain.py: paraguay
+domain.uy: uruguay
